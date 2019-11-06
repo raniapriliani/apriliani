@@ -1,0 +1,7 @@
+{
+  "name": "raniapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
